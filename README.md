@@ -28,7 +28,8 @@
  </p>
 
 <h3 align="middle">My Projects:</h3>
-<strong><p align="left">Custom 3D Game Engine</p></strong>
+<strong><p align="left">STARDUST Physics Library for Game Maker Studio 2</p></strong>
+<p align="left"></p>
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/>
+  <img src="https://marketplacecdn.yoyogames.com/images/assets/12074/icon/1719667650_large.jpg?1719667650" alt="stardust" width="256" height="256"/>
  </p>
