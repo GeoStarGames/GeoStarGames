@@ -1,7 +1,7 @@
 <h3 align="center">Georgian Indie Game Developer🛠️👨🏻‍💻</h3>
 
-<h3 align="left">Socials:</h3>
-<p align="left">
+<h3 align="middle">Socials:</h3>
+<p align="middle">
     <a href="https://twitter.com/geostargames" target="_blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="geostargames" height="30" width="40" />
     </a>
@@ -10,8 +10,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="middle">Languages and Tools:</h3>
+<p align="middle">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -27,8 +27,8 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  </p>
 
-<h3 align="left">My Projects:</h3>
-<h2 align="middle">Custom 3D Game Engine<h2>
+<h3 align="middle">My Projects:</h3>
+<p align="left">Custom 3D Game Engine<p>
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/>
  </p>
