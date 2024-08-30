@@ -16,6 +16,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GameMaker_Studio_2_logo.png/1280px-GameMaker_Studio_2_logo.png" alt="gamemaker" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFanQ7H0wO-ouVRnXYBGIKyPLhU5X1ISFtw&s" alt="gamemaker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  </p>
