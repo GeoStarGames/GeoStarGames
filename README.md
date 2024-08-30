@@ -28,7 +28,7 @@
  </p>
 
 <h3 align="middle">My Projects:</h3>
-<p align="left">Custom 3D Game Engine<p>
+<strong><p align="left">Custom 3D Game Engine</p></strong>
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/>
  </p>
