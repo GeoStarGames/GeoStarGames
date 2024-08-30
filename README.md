@@ -3,7 +3,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
     <a href="https://twitter.com/geostargames" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="geostargames" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/geostargames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geostargames" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/GeoStarGames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geostargames" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
