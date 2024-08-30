@@ -16,6 +16,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T210A1PA4301PT17X245Y75D1050476896W6800H6800PA4303PT17X37Y71D1050476897W24000H5671/views/1,width=650,height=650,appearanceId=1,backgroundColor=cbcbcb/up-your-game-with-a-gamemaker-logo-shirts-and-hoodies-these-simple-white-short-sleeve-t-shirts-and-hoodies-features-a-black-gamemaker-logo-on-the-fro.jpg" alt="gamemaker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GameMaker_Studio_2_logo.png/1280px-GameMaker_Studio_2_logo.png" alt="gamemaker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  </p>
