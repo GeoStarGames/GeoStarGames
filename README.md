@@ -32,4 +32,4 @@
 <p align="left">Link: <href>https://marketplace.gamemaker.io/assets/12074/stardust-physics-library</href></p>
 
 <img src="https://marketplacecdn.yoyogames.com/images/assets/12074/icon/1719667650_large.jpg?1719667650" alt="stardust" width="64" height="64"/>
-<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24327_original.png?1719668302" alt="stardust" width="1366/2" height="768/2"/>
+<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24327_original.png?1719668302" alt="stardust" width="683" height="384"/>
