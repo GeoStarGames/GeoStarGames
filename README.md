@@ -15,7 +15,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" alt="unity" width="40" height="40"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFanQ7H0wO-ouVRnXYBGIKyPLhU5X1ISFtw&s" alt="gamemaker" width="40" height="40"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnliNCsyr4TdJRirpZvsUWUYSlceE766Kng&s" alt="godot" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
