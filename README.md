@@ -29,9 +29,9 @@
 
 <h3 align="middle">My Projects:</h3>
 <strong><p align="middle">STARDUST Physics Library for Game Maker Studio 2</p></strong>
-<p align="midlle"><p><href>https://marketplace.gamemaker.io/assets/12074/stardust-physics-library</href></p></p>
 
 <p align="middle">
+    <href>https://marketplace.gamemaker.io/assets/12074/stardust-physics-library</href>
 <img src="https://marketplacecdn.yoyogames.com/images/assets/12074/icon/1719667650_large.jpg?1719667650" alt="stardust" width="64" height="64"/>
 </p>
 
