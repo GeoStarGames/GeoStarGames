@@ -33,7 +33,7 @@
 
 <img src="https://marketplacecdn.yoyogames.com/images/assets/12074/icon/1719667650_large.jpg?1719667650" alt="stardust" width="64" height="64"/>
 <p align="left">
-<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24327_original.png?1719668302" alt="stardust" width="683" height="384"/>
-<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24328_original.png?1719668510" alt="stardust" width="683" height="384"/>
-<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24329_original.png?1719668615" alt="stardust" width="683" height="384"/>
+<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24327_original.png?1719668302" alt="stardust" width="342" height="192"/>
+<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24328_original.png?1719668510" alt="stardust" width="342" height="192"/>
+<img src="https://marketplacecdn.yoyogames.com/images/assets/12074/screenshots/24329_original.png?1719668615" alt="stardust" width="342" height="192"/>
 </p>
