@@ -31,6 +31,10 @@
 <strong><p align="middle">STARDUST Physics Library for Game Maker Studio 2</p></strong>
 
 <p align="middle">
+    Easy to use physics library for Game Maker Studio 2.
+</p>
+
+<p align="middle">
     <href>https://marketplace.gamemaker.io/assets/12074/stardust-physics-library</href>
 </p>
 
